@@ -1,2 +1,2 @@
 # Python
-Thats a my code :-)
+That's my code :-)
